@@ -6,8 +6,6 @@ num3 = 300
 
 num4 = 400
 
-num5 = yuanyuan
+unm5 = 我不想上班 
 
-num6 = 克制克制克制
-
- 
+num = 123
